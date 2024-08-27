@@ -1,0 +1,6 @@
+1. Opean anaconda prompt: conda create -n pytorch_env python=3.10
+2. Activate environment: conda activate pytorch_env
+3. install pytorch: conda install pytorch torchvision torchaudio cpuonly -c pytorch
+4. idle mood: python
+5. Verify the installation: 	import torch
+				print(torch.__version__)
