@@ -4,3 +4,6 @@
 4. idle mood: python
 5. Verify the installation: 	import torch
 				print(torch.__version__)
+
+6. check all environments: conda env list
+7. delete environments: conda env remove -n pytorch_env
